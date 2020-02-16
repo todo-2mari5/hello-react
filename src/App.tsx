@@ -1,7 +1,8 @@
 import React, { FC } from 'react';
 import { Redirect, Route, Switch } from 'react-router';
 
-import Home from './components/Characters';
+import Home from './components/Home';
+import Characters from './components/Characters';
 
 import './App.css';
 
